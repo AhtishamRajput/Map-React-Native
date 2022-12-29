@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832704405229",
+    "project_id": "map-react-4152a",
+    "storage_bucket": "map-react-4152a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832704405229:android:1d68a6bb2acd52409776e4",
+        "android_client_info": {
+          "package_name": "com.map"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832704405229-j4nsr43svd5domqpom9usou9t0c8qn4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhu3okAhDvEWa3iGKYvZGwLFNWN8tv98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832704405229-j4nsr43svd5domqpom9usou9t0c8qn4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
